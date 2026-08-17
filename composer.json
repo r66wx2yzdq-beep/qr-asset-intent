@@ -1,0 +1,7 @@
+{
+    "name": "dilnaz/qrintent",
+    "description": "Веб-система инвентаризации основных средств с QR-кодами",
+    "require": {
+        "phpoffice/phpspreadsheet": "^1.29"
+    }
+}
